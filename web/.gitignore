@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/public/Insomnia.Core-2020.3.3.exe
 
 # testing
 /coverage
