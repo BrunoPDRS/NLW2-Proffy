@@ -1,8 +1,8 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][license-url]
 
 
 
@@ -129,7 +129,7 @@ Project Link: [https://github.com/BrunoPDRS/NLW2-Proffy](https://github.com/Brun
 [forks-url]: https://github.com/BrunoPDRS/NLW2-Proffy/network/members
 [stars-shield]: https://img.shields.io/github/stars/BrunoPDRS/NLW2-Proffy.svg?style=flat-square
 [stars-url]: https://github.com/BrunoPDRS/NLW2-Proffy/stargazers
-[license-shield]: https://img.shields.io/github/license/BrunoPDRS/NLW2-Proffy.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/BrunoPDRS/NLW2-Proffy?label=license&style=flat-square
 [license-url]: https://github.com/BrunoPDRS/NLW2-Proffy/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bruno-pedrosa-
