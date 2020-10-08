@@ -9,7 +9,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-  <h3 align="center">Proffy</h3>
+  <h3 align="center">Proffy - Rocketseat</h3>
 
   <p align="center">
     Proffy is an educational application that connects teachers to students.
